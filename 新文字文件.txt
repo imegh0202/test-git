@@ -1,0 +1,2 @@
+.NET Conf 2020 活動投影片資訊
+https://github.com/Study4/DotNetConfTaipei2020
